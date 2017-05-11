@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Store Beauty</title>
+
+    <link href="images/logo.png" rel="shortcut icon">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/style.css" rel="stylesheet">
+
+    <link href="css/importfont.css" rel="stylesheet">
+
+
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+
+
+    <div class="wrap">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="content" class="hidden-sm hidden-xs">
+                    <div class="col-md-12" id="bodycontent">
+
+                        <!-- Header -->
+                        <div id="header">
+                            <div class="col-md-7">
+                                <div class="col-md-7">
+                                    <center>
+                                        <img src="images/logo.png" id="logo">
+                                        <h1 id="title">Store Beauty</h1>
+                                    </center>
+                                </div>
+                            </div>
+                            <div class="col-md-5" id="header-kanan">
+                                <div class="col-md-12" id="header-kanan-atas">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-pencil-square"></i> Register</a> | </li>
+                                        <li><a href="#"><i class="fa fa-sign-in"></i> Login</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-12" id="header-kanan-tengah">
+                                    <div class="col-md-10" style="padding-right:5px;">
+                                        <div class="form-group" id="pencarian">
+                                            <input type="text" class="form-control" placeholder="Search..">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2" id="button-pencarian" style="padding-left:5px; padding-right:0px;">
+                                        <div class="form-group">
+                                            <button type="button" class="btn btn-default">Search</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12" id="header-kanan-bawah">
+                                    <ul>
+                                        <li><a href="index.html">Home</a> | </li>
+                                        <li><a href="#">About</a> | </li>
+                                        <li><a href="#">Blog</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+
+                            <!-- Menu Atas -->
+                            <nav class="navbar navbar-default">
+                                <div class="container-fluid">
+
+                                    <!-- Collect the nav links, forms, and other content for toggling -->
+                                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                        <ul class="nav navbar-nav" id="listkategori">
+                                            <li><a href="index.html"><b>HOME</b></a></li>
+                                            <!--<li><a href="barang-by-kategori.html?kat=brands">BRANDS</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=eyes">EYES</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=face">FACE</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=lips">LIPS</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=tools">TOOLS</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=skin">SKIN CARE</a></li>
+                                            <li><a href="barang-by-kategori.html?kat=sale">SALE</a></li>-->
+                                            <!--<li class="dropdown">
+                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="#">Action</a></li>
+                                                    <li><a href="#">Another action</a></li>
+                                                    <li><a href="#">Something else here</a></li>
+                                                    <li role="separator" class="divider"></li>
+                                                    <li><a href="#">Separated link</a></li>
+                                                    <li role="separator" class="divider"></li>
+                                                    <li><a href="#">One more separated link</a></li>
+                                                </ul>
+                                            </li>-->
+                                        </ul>
+                                    </div>
+                                    <!-- /.navbar-collapse -->
+                                </div>
+                                <!-- /.container-fluid -->
+                            </nav>
+                            <!-- End Menu Atas -->
+                        </div>
+
+                        <!-- Content -->
+                        <div class="col-md-12">
+
+                            <!-- Body Content -->
+                            <div class="col-md-9" id="body-content">
+
+                                <ol class="breadcrumb" id="breadcrumbdetail">
+                                </ol>
+
+                                <div class="col-md-12" id="detailbarang">
+
+                                    <!--<div class="col-md-5">
+                                        <div class="ribbon bestsellerdetail"></div>
+                                        <div class="habisdetail"></div>
+                                        <img src="images/barang/1.jpg" id="gambar-barang">
+                                    </div>
+                                    <div class="col-md-7">
+                                        <h2><b>Nama Barang</b></h2>
+                                        <h4><b>Deskripsi</b></h4>
+                                        <h3>Stock : 0</h3>
+                                        <span id="hargadetail">Rp 1.000.000</span>
+                                        <div class="clearfix"></div>
+                                        <hr>
+                                        <h4>Deskripsi</h4>
+                                        <p>ksdj</p>
+                                    </div>-->
+
+
+                                </div>
+
+                            </div>
+                            <!-- End Body Content -->
+
+                            <!-- Sidebar -->
+                            <div class="col-md-3" id="sidebar">
+
+                                <div class="sidemenu">
+                                    <h3>Kategori</h3>
+                                    <hr>
+                                    <ul id="listkategori1"></ul>
+                                </div>
+                                <div class="clearfix"></div>
+
+                                <div class="sidemenu">
+                                    <h3>Best Seller</h3>
+                                    <hr>
+
+                                    <div id="barang-baru-sidebar">
+                                    </div>
+
+                                </div>
+                                <div class="clearfix"></div>
+
+                            </div>
+                            <!--End Sidebar -->
+
+                        </div>
+                        <!-- End Content -->
+
+
+                        <!-- Footer -->
+                        <div class="col-md-12">
+                            <div id="footer">
+                                <center>
+                                    <h6 id="copy"></h6>
+                                </center>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+
+    <!-- Scripts DOM XML -->
+    <script src="my-scripts.js"></script>
+
+</body>
+
+</html>

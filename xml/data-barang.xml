@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<xml>
+    <Data>
+        <User>
+            <iduser>1JUGI</iduser>
+            <namauser>Ugi Ispoyo Widodo</namauser>
+        </User>
+        <Databarang id="1" kategori="face" penempatan="home" status="best-seller">
+            <Idbarang>1</Idbarang>
+            <Namabarang>VANICREAM</Namabarang>
+            <Deskripsi>Cleansing Bar</Deskripsi>
+            <Deskripsilengkap>Cleansing Bar</Deskripsilengkap>
+            <Harga>Rp 135.000</Harga>
+            <Stock>4</Stock>
+            <Foto>1.jpg</Foto>
+        </Databarang>
+        <Databarang id="2" kategori="face" penempatan="home" status="habis">
+            <Idbarang>2</Idbarang>
+            <Namabarang>TARTE</Namabarang>
+            <Deskripsi>PRO Amazonian Clay Palette</Deskripsi>
+            <Deskripsilengkap>PRO Amazonian Clay Palette</Deskripsilengkap>
+            <Harga>Rp. 1.020.000</Harga>
+            <Stock>0</Stock>
+            <Foto>2.jpg</Foto>
+        </Databarang>
+        <Databarang id="3" kategori="face" penempatan="home">
+            <Idbarang>3</Idbarang>
+            <Namabarang>LORAC</Namabarang>
+            <Deskripsi>PRO Conceal/Contour Palette And Brush</Deskripsi>
+            <Deskripsilengkap>PRO Conceal/Contour Palette And Brush</Deskripsilengkap>
+            <Harga>Rp. 77.000</Harga>
+            <Stock>8</Stock>
+            <Foto>3.jpg</Foto>
+        </Databarang>
+        <Databarang id="4" kategori="lips" penempatan="home">
+            <Idbarang>4</Idbarang>
+            <Namabarang>THE BALM</Namabarang>
+            <Deskripsi>Meet Matte Hughes</Deskripsi>
+            <Deskripsilengkap>Meet Matte Hughes</Deskripsilengkap>
+            <Harga>Rp 190.000</Harga>
+            <Stock>2</Stock>
+            <Foto>4.jpg</Foto>
+        </Databarang>
+        <Databarang id="5" kategori="eyes" penempatan="home">
+            <Idbarang>5</Idbarang>
+            <Namabarang>RAPIDLASH</Namabarang>
+            <Deskripsi>Eyelash And Eyebrow Enhancing Serum</Deskripsi>
+            <Deskripsilengkap>Eyelash And Eyebrow Enhancing Serum</Deskripsilengkap>
+            <Harga>Rp 495.000</Harga>
+            <Stock>1</Stock>
+            <Foto>5.jpg</Foto>
+        </Databarang>
+        <Databarang id="6" kategori="face" penempatan="home">
+            <Idbarang>6</Idbarang>
+            <Namabarang>PIXL</Namabarang>
+            <Deskripsi>GLOW MUD MASK</Deskripsi>
+            <Deskripsilengkap>GLOW MUD MASKr</Deskripsilengkap>
+            <Harga>Rp. 77.000</Harga>
+            <Stock>9</Stock>
+            <Foto>6.jpg</Foto>
+        </Databarang>
+        <Databarang id="7" kategori="face" status="best-seller">
+            <Idbarang>7</Idbarang>
+            <Namabarang>New LORAC</Namabarang>
+            <Deskripsi>New LORAC</Deskripsi>
+            <Deskripsilengkap>New LORAC</Deskripsilengkap>
+            <Harga>RP 70.000</Harga>
+            <Stock>6</Stock>
+            <Foto>7.jpg</Foto>
+        </Databarang>
+        <Databarang id="8" kategori="skin-care" status="best-seller">
+            <Idbarang>8</Idbarang>
+            <Namabarang>THAYERS</Namabarang>
+            <Deskripsi>THAYERS</Deskripsi>
+            <Deskripsilengkap>THAYERS</Deskripsilengkap>
+            <Harga>RP 280.000</Harga>
+            <Stock>3</Stock>
+            <Foto>8.jpg</Foto>
+        </Databarang>
+        <Databarang id="9" kategori="brands" status="habis">
+            <Idbarang>9</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Foundation Stick</Deskripsi>
+            <Deskripsilengkap>Foundation Stick</Deskripsilengkap>
+            <Harga>Rp 490.000</Harga>
+            <Stock>0</Stock>
+            <Foto>brands-1.jpg</Foto>
+        </Databarang>
+        <Databarang id="10" kategori="brands" status="best-seller">
+            <Idbarang>10</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Modern Renaissance Palette</Deskripsi>
+            <Deskripsilengkap>Modern Renaissance Palette</Deskripsilengkap>
+            <Harga>Rp 820.000</Harga>
+            <Stock>4</Stock>
+            <Foto>brands-2.jpg</Foto>
+        </Databarang>
+        <Databarang id="11" kategori="brands">
+            <Idbarang>11</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Glow Kit - Ultimate Glow</Deskripsi>
+            <Deskripsilengkap>Glow Kit - Ultimate Glow</Deskripsilengkap>
+            <Harga>Rp 900.000</Harga>
+            <Stock>6</Stock>
+            <Foto>brands-3.jpg</Foto>
+        </Databarang>
+        <Databarang id="12" kategori="face">
+            <Idbarang>12</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Master Palette By Mario</Deskripsi>
+            <Deskripsilengkap>Master Palette By Mario</Deskripsilengkap>
+            <Harga>Rp 1.000.000</Harga>
+            <Stock>10</Stock>
+            <Foto>brands-4.jpg</Foto>
+        </Databarang>
+        <Databarang id="13" kategori="eyes">
+            <Idbarang>13</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Brow Wiz</Deskripsi>
+            <Deskripsilengkap>Brow Wiz</Deskripsilengkap>
+            <Harga>Rp 310.000</Harga>
+            <Stock>3</Stock>
+            <Foto>eyes-1.jpg</Foto>
+        </Databarang>
+        <Databarang id="14" kategori="eyes">
+            <Idbarang>14</Idbarang>
+            <Namabarang>NYX</Namabarang>
+            <Deskripsi>Micro Brow</Deskripsi>
+            <Deskripsilengkap>Micro Brow</Deskripsilengkap>
+            <Harga>Rp 185.000</Harga>
+            <Stock>2</Stock>
+            <Foto>eyes-2.jpg</Foto>
+        </Databarang>
+        <Databarang id="15" kategori="eyes">
+            <Idbarang>15</Idbarang>
+            <Namabarang>ANASTASIA BEVERLY HILLS</Namabarang>
+            <Deskripsi>Clear Brow Gel</Deskripsi>
+            <Deskripsilengkap>Clear Brow Gel</Deskripsilengkap>
+            <Harga>Rp 320.000</Harga>
+            <Stock>3</Stock>
+            <Foto>eyes-3.jpg</Foto>
+        </Databarang>
+        <Databarang id="16" kategori="face">
+            <Idbarang>16</Idbarang>
+            <Namabarang>PHYSICIANS FORMULA</Namabarang>
+            <Deskripsi>Happy Booster Glow And Mood Boosting Blush</Deskripsi>
+            <Deskripsilengkap>Happy Booster Glow And Mood Boosting Blush</Deskripsilengkap>
+            <Harga>Rp 185.000</Harga>
+            <Stock>2</Stock>
+            <Foto>face-1.jpg</Foto>
+        </Databarang>
+        <Databarang id="17" kategori="face">
+            <Idbarang>17</Idbarang>
+            <Namabarang>MILANI</Namabarang>
+            <Deskripsi>Rose Powder Blush</Deskripsi>
+            <Deskripsilengkap>Rose Powder Blush</Deskripsilengkap>
+            <Harga>Rp 165.000</Harga>
+            <Stock>8</Stock>
+            <Foto>face-2.jpg</Foto>
+        </Databarang>
+        <copyright>
+            <by>Copyright © 2017 Ugi Ispoyo Widodo</by>
+        </copyright>
+    </Data>
+ </xml>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+
+<xml>
+    <Data>
+        <User>
+            <iduser>1JUGI</iduser>
+            <namauser>Ugi Ispoyo Widodo</namauser>
+        </User>
+        <Datakategori>
+            <Id>1</Id>
+            <Nama>BRANDS</Nama>
+            <Deskirpsi>Brands</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>2</Id>
+            <Nama>EYES</Nama>
+            <Deskirpsi>Eyes</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>3</Id>
+            <Nama>FACE</Nama>
+            <Deskirpsi>Face</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>4</Id>
+            <Nama>LIPS</Nama>
+            <Deskirpsi>Lips</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>5</Id>
+            <Nama>TOOLS</Nama>
+            <Deskirpsi>Tools</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>6</Id>
+            <Nama>SKIN CARE</Nama>
+            <Deskirpsi>Skin Care</Deskirpsi>
+        </Datakategori>
+        <Datakategori>
+            <Id>7</Id>
+            <Nama>SALE</Nama>
+            <Deskirpsi>Sale</Deskirpsi>
+        </Datakategori>
+    </Data>
+ </xml>

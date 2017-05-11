@@ -1,0 +1,287 @@
+body {
+    overflow-x: hidden;
+}
+
+.wrap {
+    background-color: #337ab7;
+}
+
+#bodycontent {
+    background-color: #fff;
+}
+
+#content {
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.bestseller,
+.bestsellerdetail {
+    background: url(../images/best-seller.png) no-repeat center center;
+    /*background-color: red;*/
+}
+
+.bestseller {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 8px;
+    top: 160px;
+    z-index: 300;
+    background-size: cover !important;
+}
+
+.bestsellerdetail {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 8px;
+    top: 200px;
+    z-index: 300;
+    background-size: cover !important;
+}
+
+.habis,
+.habisdetail {
+    background: url(../images/out_stock_en.png) no-repeat center center;
+    /*background-color: red;*/
+}
+
+.habis {
+    width: 200px;
+    height: 45px;
+    position: absolute;
+    left: 8px;
+    top: 170px;
+    z-index: 300;
+    background-size: cover !important;
+}
+
+.habisdetail {
+    width: 200px;
+    height: 45px;
+    position: absolute;
+    left: 8px;
+    top: 220px;
+    z-index: 300;
+    background-size: cover !important;
+}
+
+#hargadetail {
+    color: red;
+    font-size: 18px;
+}
+
+
+/** Header **/
+
+#header {
+    width: 100%;
+    padding: 20px 15px 0px 15px;
+}
+
+#logo {
+    width: 80px;
+    height: auto;
+}
+
+#title {
+    font-family: 'logofont';
+    color: pink;
+}
+
+#header-kanan {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#header-kanan-atas ul,
+#header-kanan-bawah ul {
+    float: right;
+}
+
+#header-kanan-atas ul li,
+#header-kanan-bawah ul li {
+    display: inline-block;
+    color: #337ab7;
+}
+
+#header-kanan-atas ul li a,
+#header-kanan-bawah ul li a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+#header-kanan-tengah {
+    float: right;
+}
+
+#header-kanan-tengah {
+    padding: 10px 0px 10px 0px;
+}
+
+#header-kanan-atas,
+#header-kanan-bawah {
+    padding-right: 0px;
+}
+
+#button-pencarian .form-group button {
+    float: right;
+}
+
+.navbar-default {
+    background-color: #337ab7;
+}
+
+#listkategorihome li a,
+#listkategori li a {
+    color: #fff;
+}
+
+#listkategorihome li a:hover,
+#listkategori li a:hover {
+    color: pink;
+}
+
+
+/** End Header **/
+
+
+/** Content **/
+
+#body-content {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+
+/*#barang {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 10px 0px 10px 0px;
+}
+*/
+
+#gambar-barang {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#body-barang {
+    margin-top: 15px;
+    padding: 10px 0px 10px 0px;
+}
+
+#barang {
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.kotak-barang {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 100%;
+}
+
+#harga-barang {
+    color: red;
+    font-size: 14px;
+}
+
+.breadcrumb {
+    background-color: transparent !important;
+}
+
+
+/** End Content **/
+
+
+/** Sidebar **/
+
+#sidebar {
+    padding-right: 0px !important;
+}
+
+.sidemenu {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    height: auto;
+    overflow: hidden;
+}
+
+.sidemenu h3 {
+    margin: 5px 0px 5px 10px;
+}
+
+.sidemenu h5 {
+    margin-bottom: 1px;
+}
+
+.sidemenu hr {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.sidemenu ul {
+    padding-left: 10px;
+}
+
+.sidemenu ul li {
+    list-style: none;
+}
+
+.sidemenu ul li a {
+    text-decoration: none;
+    font-size: 12px;
+}
+
+
+/*.kotak-barang-sidemenu {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 100%;
+}*/
+
+#list-barang {
+    border-bottom: 1px solid #ccc;
+    margin: 0px 5px 15px 5px;
+}
+
+#barang-sidemenu {
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+#harga-barang-sidebar {
+    color: red;
+    font-size: 10px;
+}
+
+
+/** End Sidebar **/
+
+
+/** Footer **/
+
+#footer {
+    width: 100%;
+    margin-top: 15px;
+    border-top: 1px solid #ccc;
+    /*border-bottom: 1px solid #ccc;*/
+    margin-right: 15px;
+    /*margin-bottom: 5px;*/
+    padding: 10px
+}
+
+
+/** End Footer **/

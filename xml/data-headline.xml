@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<xml>
+    <Data>
+        <User>
+            <iduser>1JUGI</iduser>
+            <namauser>Ugi Ispoyo Widodo</namauser>
+        </User>
+        <Headline>
+            <Deskripsi>Headline 1</Deskripsi>
+            <Foto>headline.jpg</Foto>
+        </Headline>
+        <Headline>
+            <Deskripsi>Headline 2</Deskripsi>
+            <Foto>headline1.jpg</Foto>
+        </Headline>
+    </Data>
+ </xml>
